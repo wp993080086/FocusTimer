@@ -1,0 +1,28 @@
+# Development files
+.history/
+.vscode/
+examples/
+node_modules/
+src/
+
+# Config files
+tsconfig.json
+vite.config.ts
+
+# Test files
+
+# Build artifacts
+*.log
+*.tgz
+
+# IDE files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git/
+.gitignore
+
+# Other
+favicon.ico
+main.html
